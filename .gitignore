@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+utils/a.mp3
+utils/b.mp3
+popmusic
